@@ -2,6 +2,7 @@
     margin-left: 20%;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: yellow;
+    font-size: 30px;
 }
 
 #age2{
@@ -11,10 +12,12 @@
 #baby{
     margin-left: 20%;
     color: burlywood;
+    font-size: 30px;
 }
 
 #age2{
     background-color: yellow;
+    font-size: 25px;
 }
 
 body{
@@ -26,4 +29,6 @@ body{
     color: yellow;
     background-color: black;
     margin-left: 20%;
+    margin-top: 50px;
+    font-size: 30px;
 }

@@ -1,6 +1,7 @@
 #a{
    color: yellow;
 margin-left: 20%;
+font-size: 50px;
 }
 
 body{
@@ -13,9 +14,17 @@ body{
     color: red;
 direction: ltr;
 margin-left: 20%;
+font-size: 200%;
+
+
 }
 .b{
 color: yellow;
 background-color: red;
 margin-left: 20%;
+}
+
+#scrate{
+    background-color: black;
+    color: black;
 }
