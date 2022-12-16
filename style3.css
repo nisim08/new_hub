@@ -1,0 +1,21 @@
+#a{
+   color: yellow;
+margin-left: 20%;
+}
+
+body{
+    background-color: black;
+    color: white;
+
+}
+
+#g{
+    color: red;
+direction: ltr;
+margin-left: 20%;
+}
+.b{
+color: yellow;
+background-color: red;
+margin-left: 20%;
+}

@@ -1,0 +1,29 @@
+#h3{
+    margin-left: 20%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: yellow;
+}
+
+#age2{
+    margin-left: 20%;
+}
+
+#baby{
+    margin-left: 20%;
+    color: burlywood;
+}
+
+#age2{
+    background-color: yellow;
+}
+
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
+#b2{
+    color: yellow;
+    background-color: black;
+    margin-left: 20%;
+}

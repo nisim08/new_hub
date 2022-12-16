@@ -1,0 +1,36 @@
+#h{
+    color: yellow;
+ margin-left: 20%;
+}
+
+body{
+    background-color: black;
+    
+}
+
+#h2{
+    color: white;
+    margin-left: 20%;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+#username{
+    background-color: yellow;
+    margin-left: 20%;
+}
+
+#password{
+    background-color: yellow;
+    margin-left: 20%;
+}
+
+#b{
+    background-color: yellow;
+    margin-left: 20%;
+}
+
+#age{
+    margin-left: 20%;
+    background-color: yellow;
+    
+}
